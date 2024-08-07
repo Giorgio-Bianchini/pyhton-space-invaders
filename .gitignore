@@ -1,5 +1,3 @@
-examples/
-
 # Virtual environment
 venv/
 .env
